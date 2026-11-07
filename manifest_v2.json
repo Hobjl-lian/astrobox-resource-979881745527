@@ -5,8 +5,8 @@
     "name": "纸雕papercut",
     "description": "把时间做成纸雕，这不是一个静态的数字时间，而是动态的。当数字发生变化时，三层牛皮纸会依次滑入画面，优雅，美观。",
     "preview": [
-      "media/craft-dark-static.jpg",
-      "media/craft-dark-trio-static.jpg"
+      "media/craft-dark.gif",
+      "media/craft-dark-trio.gif"
     ],
     "icon": "media/icon-256.png",
     "cover": "media/cover-1200x800 (1).jpg",
